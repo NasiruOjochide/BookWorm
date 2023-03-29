@@ -100,3 +100,5 @@ struct DetailView_Previews: PreviewProvider {
         }
     }
 }
+
+//testing commit to github, ignore in the future
